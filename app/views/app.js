@@ -1,4 +1,4 @@
-let max = 100;
+let max = 200;
 let num = 1;
 let count = 0;
 
